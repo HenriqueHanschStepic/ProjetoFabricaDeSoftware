@@ -1,0 +1,32 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+header{
+    height: 50px;
+    text-align: center;
+    background-color: turquoise;
+    margin-top: 0px;
+}
+
+#info{
+    text-align: center;
+    margin-top: 50px;
+}
+#info2{
+    text-align: center;
+    margin-top: 10px; 
+}
+.labels{
+    text-align: center;
+}
+.inputs{
+    text-align: center;
+    width: 250px;
+}
+
+
+footer{
+    margin-bottom: 0px;
+    text-align: center;
+}
